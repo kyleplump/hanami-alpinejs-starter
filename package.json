@@ -1,0 +1,9 @@
+{
+  "name": "hanami_alpine_starter",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@alpinejs/csp": "^3.14.8",
+    "hanami-assets": "^2.2.1"
+  }
+}
